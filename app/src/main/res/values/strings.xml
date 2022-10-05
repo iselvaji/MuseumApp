@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MuseumApp</string>
+    <string name="err_network">Network is Unavailable</string>
+    <string name="err_loading_refresh">Error while loading data. Please tap on refresh</string>
+    <string name="refresh">Refresh</string>
+    <string name="ok">OK</string>
+</resources>
